@@ -3,3 +3,6 @@
 <h4 align="center">
 💻 full stack project trainee <a href="https://thegatewaycorp.com/">@GatewayGroup</a> | 💬 connect <a href="https://twitter.com/Shivlal01596340">@ShivlalSharma</a>
 </h4>
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=sshiv5768&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Shivlal's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshiv5768&layout=compact&theme=buefy&hide_border=true" /> |
+| ------------- | ------------- |
