@@ -4,7 +4,7 @@
 💻 Project trainee <a href="https:/www.wipro.com/">@Wipro</a> | 💬 connect <a href="https://twitter.com/Shivlal01596340">@ShivlalSharma</a>
 </h4>
 
-<a href="https://app.daily.dev/sshiv6353"><img src="https://api.daily.dev/devcards/ecf10425e46340109b183054f63c479a.png?r=rkb" width="400" alt="Shivlal Sharma's Dev Card"/></a>
+<a href="https://app.daily.dev/sshiv6353"><img align="center" src="https://api.daily.dev/devcards/ecf10425e46340109b183054f63c479a.png?r=rkb" width="400" alt="Shivlal Sharma's Dev Card"/></a>
 
 ## My skills 🚀
 
